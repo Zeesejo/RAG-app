@@ -1,0 +1,14 @@
+streamlit
+langchain>=0.2.10
+langchain-community>=0.2.10
+langchain-ollama>=0.1.0
+langchain-chroma>=0.1.0
+chromadb>=0.5.0
+ollama>=0.1.9
+pypdf
+docx2txt
+python-docx
+rank-bm25
+pymupdf
+trafilatura
+sentence-transformers

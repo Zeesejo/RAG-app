@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+.env/
+
+# Streamlit
+.streamlit/cache/
+.streamlit/secrets.toml
+
+# App runtime data
+chroma_db/
+sessions/
+# Keep docs folder structure but ignore user content by default
+# Allow README/placeholder files to remain tracked
+/docs/**
+!/docs/.gitkeep
+!/docs/README.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
