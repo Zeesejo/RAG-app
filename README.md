@@ -1,5 +1,8 @@
 # Litends Lab — Local RAG Application
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![CI](https://github.com/Zeesejo/RAG-app/actions/workflows/ci.yml/badge.svg)](https://github.com/Zeesejo/RAG-app/actions/workflows/ci.yml)
+
 This project is a fully local, free Retrieval Augmented Generation (RAG) app built with Python, Streamlit, LangChain, Chroma, and Ollama. Built by Litends Lab.
 
 ## Highlights
@@ -11,6 +14,8 @@ This project is a fully local, free Retrieval Augmented Generation (RAG) app bui
 - Streaming answers, citations with snippets, inline PDF previews
 - Sessions (save/load/delete) and collection export/import (ZIP)
 - Brandable theme and logo
+
+Note: This app runs locally and isn’t hosted via GitHub Pages. Follow Quickstart below.
 
 ## Quickstart (Windows PowerShell)
 1) Install Ollama for Windows and start it (https://ollama.com/download)
