@@ -19,6 +19,8 @@ sessions/
 /docs/**
 !/docs/.gitkeep
 !/docs/README.md
+# Track Markdown documentation files in docs/
+!/docs/*.md
 
 # OS
 .DS_Store
