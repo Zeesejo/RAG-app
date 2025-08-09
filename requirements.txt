@@ -13,3 +13,5 @@ pymupdf
 trafilatura
 sentence-transformers
 reportlab
+matplotlib
+pandas
